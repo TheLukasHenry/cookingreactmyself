@@ -10,6 +10,10 @@
     --color-light: hsl(0, 0%, 90%);
 }
 
+/* #root {
+    min-width: 100vw;
+} */
+
 
 html,
 body {
